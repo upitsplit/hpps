@@ -60,6 +60,8 @@ ako netko zna kako to izvest bez javascripta, slobodno.*/
     /*border-bottom: 1px solid #283744; */
 }
 
+
+
 /*Ovo su navigacijske tipke.*/
 .hn_items {
 
@@ -77,6 +79,14 @@ ako netko zna kako to izvest bez javascripta, slobodno.*/
     background: #dce0e3;
 
 }
+
+/* Dodan stil za navigaciju */
+.hn_items a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
 /*HM..*/
 @media all and (max-width: 600px){
 
