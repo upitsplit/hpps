@@ -1,2 +1,4 @@
-Site pedijatrijske škole, redizajn vol.1.
-Ideje dobrodošle.
+/*----------------------------HRVATSKA PROLJETNA PEDIJATRIJSKA ŠKOLA------------------------------*/
+Redizajnirana stranica Hrvatske proljetne pedijatrijske škole. 
+Sva mišljenja dobrodošla!
+
